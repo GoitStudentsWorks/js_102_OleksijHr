@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/jefferson_developers/",
+    "build": "vite build --base=/js_102_OleksijHr/",
     "preview": "jefferson_developers"
   },
   "devDependencies": {
